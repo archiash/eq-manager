@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ui6PhNyetZwHckZR9M+6W7uW85NuUFGmv3+lJkpWlCR4x4QHcle2z5epeuXr6Ss9dscxTUvRXp9gEr1SOGuyFg==",
+  "dgSpecHash": "sf1xMF5hxoNianqqMBB+pZfiRzH93UTgyNGwaGZZCw9PD2FmMxLqibQ1EPOxaR51At6chVQ5UxIAZwUL2HaAIA==",
   "success": true,
-  "projectFilePath": "D:\\dobby_N\\LaTex\\LaTex\\LaTex.csproj",
+  "projectFilePath": "D:\\MyDB\\eq-manager\\LaTex\\LaTex\\LaTex.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Archiash\\.nuget\\packages\\wpfmath\\2.1.0\\wpfmath.2.1.0.nupkg.sha512",
     "C:\\Users\\Archiash\\.nuget\\packages\\xamlmath.shared\\2.1.0\\xamlmath.shared.2.1.0.nupkg.sha512"

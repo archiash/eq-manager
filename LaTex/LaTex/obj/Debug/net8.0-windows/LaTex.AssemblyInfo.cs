@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaTex")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a84d62a6be0ae7047873d81ec8d16eb12be6b6f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+918196f83591d8fe269459292590a7ed5245ed45")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaTex")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaTex")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

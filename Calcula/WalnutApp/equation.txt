@@ -1,1 +1,4 @@
-p = m * v,jfeahfaehof
+p = m * v,Linear momentum is the product of |a system's mass and its velocity.|You can see from the equation that |momentum is directly proportional |to the object’s mass (m) |and velocity (v). |Therefore, the greater an |object's mass or the greater |its velocity, the greater its momentum. |A large, fast-moving object |has greater momentum than |a smaller, slower object. 
+x = 2y,Test2
+s = x ^ 2 ^ 3 ^ y,Test3
+Gamma(x) = x!,

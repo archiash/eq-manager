@@ -26,7 +26,7 @@ static int CheckValid(const std::string& formula) {
 static int GenarateImage(const std::string& formula, const std::string& fileName) {
 	//cout << formula << endl;
 	string cm = "\"gen\"";
-	string fl = " \"" + formula + "\"";
+	string fl = " \"\\color[RGB]{255,255,255}{" + formula + "}\"";
 	string fn = " \"" + fileName + ".png\"";
 	string command = "LaTex\\LaTex.exe " + cm + fl + fn;
 	int k = system(command.c_str());

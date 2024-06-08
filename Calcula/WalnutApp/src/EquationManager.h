@@ -16,9 +16,11 @@ public:
 		string description;
 		string multilinedesc;
 		while (getline(file, equation)) {
-			sscanf(equation.c_str(), "%[^,],%[^,]", formula.c_str(), description.c_str());
-			//cout << "Load " << formula.c_str() << "size: " << strlen(formula.c_str());
-			multilinedesc = description.c_str();
+			//sscanf(equation.c_str(), "%[^,],%[^,]", formula.c_str(), description.c_str());
+			int spliterIndex = equation.find(',');
+			formula = equation.substr(0, spliterIndex);
+			description = equation.substr(spliterIndex + 1);
+			multilinedesc = description;
 			int newLine = multilinedesc.find('|');
 			while (newLine < multilinedesc.size()) {
 				multilinedesc.replace(newLine, 1, "\n");
