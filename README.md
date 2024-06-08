@@ -1,4 +1,8 @@
-# DOBBY Your Equation Manager
+# DOBBY "Reparo Edition" Your Equation Manager
+
+## Reparo Edition
+This is my personal ui taste for my group c++ project aim to make it look more simple black and white.
+And fix some bug in previous version.
 
 ## Getting Started
 Clone this repository and run script/Setup.bat you will get .sln project file. Open solution explorer and
@@ -9,5 +13,5 @@ ready to build.
 - Vulkan SDK
 	
 ## Reference Library and Dependencies
-- [Walnut](https://github.com/StudioCherno/Walnut) for application framework based on [Dear ImGui](https://github.com/ocornut/imgui) 
+- [Walnut](https://github.com/StudioCherno/Walnut) for ui application framework based on [Dear ImGui](https://github.com/ocornut/imgui) 
 - [xaml-math](https://github.com/ForNeVeR/xaml-math) for draw equation image
